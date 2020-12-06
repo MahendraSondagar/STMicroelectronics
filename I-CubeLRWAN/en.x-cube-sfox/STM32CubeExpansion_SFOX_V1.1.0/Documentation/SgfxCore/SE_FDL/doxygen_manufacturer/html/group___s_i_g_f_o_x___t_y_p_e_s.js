@@ -1,0 +1,26 @@
+var group___s_i_g_f_o_x___t_y_p_e_s =
+[
+    [ "SFX_FALSE", "group___s_i_g_f_o_x___t_y_p_e_s.html#gac86c357fd82d9ed8f2f86c78afe0bfd7", null ],
+    [ "SFX_NULL", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga78bd379d9c688c79c293e083c1f5a2f9", null ],
+    [ "SFX_S16_MAX", "group___s_i_g_f_o_x___t_y_p_e_s.html#gaffc28d50166ea3df0bd44a1a028309ad", null ],
+    [ "SFX_S16_MIN", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga28f1383cd1616836146a748622ef1f27", null ],
+    [ "SFX_S32_MAX", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga752ca7c7559f7c11eb3d0d7d99b1e034", null ],
+    [ "SFX_S32_MIN", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga80802c88f61b6d8cb2eead21e6fa0363", null ],
+    [ "SFX_S8_MAX", "group___s_i_g_f_o_x___t_y_p_e_s.html#gabbdecd8073445fa9cf944be4ffb9350f", null ],
+    [ "SFX_S8_MIN", "group___s_i_g_f_o_x___t_y_p_e_s.html#gab14ec3d3f173ebc9090ab8a7e3dff9cd", null ],
+    [ "SFX_TRUE", "group___s_i_g_f_o_x___t_y_p_e_s.html#gaa7245af7fc725c751b48845cbad51a75", null ],
+    [ "SFX_U16_MAX", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga55622f30706ee0a0b4611631400c543e", null ],
+    [ "SFX_U16_MIN", "group___s_i_g_f_o_x___t_y_p_e_s.html#gaaaaa7f891e2a0f02686b75e23ab2cdac", null ],
+    [ "SFX_U32_MAX", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga4552066b3c8c075c937126ca07cc5be0", null ],
+    [ "SFX_U32_MIN", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga50b37bcec112d0d4fe74d0f8350f9abf", null ],
+    [ "SFX_U8_MAX", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga2d4ebe6545af59e3b58252ea430758c3", null ],
+    [ "SFX_U8_MIN", "group___s_i_g_f_o_x___t_y_p_e_s.html#gadb1f7aaed8362156a057702e834485db", null ],
+    [ "sfx_bool", "group___s_i_g_f_o_x___t_y_p_e_s.html#gaa81242b5eaf38cff194b163bd13b321f", null ],
+    [ "sfx_error_t", "group___s_i_g_f_o_x___t_y_p_e_s.html#gac7aa7c98e46cdc039d4e67dc1b257b3a", null ],
+    [ "sfx_s16", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga7839b9bc84c64e7c74527fe05594e6cf", null ],
+    [ "sfx_s32", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga70ec0df7516ff99ba88f79d76a9f408d", null ],
+    [ "sfx_s8", "group___s_i_g_f_o_x___t_y_p_e_s.html#gaa47561cfc4adf135f189b3644da0c31f", null ],
+    [ "sfx_u16", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga3d1b7decf9b0863165cfcc678f3e1bc5", null ],
+    [ "sfx_u32", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga4a5c513dd9032b2acd29341c1b44e888", null ],
+    [ "sfx_u8", "group___s_i_g_f_o_x___t_y_p_e_s.html#ga2107b7cc91a9f453aee14d2e2190c2fb", null ]
+];

@@ -4,3 +4,6 @@
 [submodule "I-CubeLRWAN/STM32CubeExpansion_LRWAN_V1.3.1"]
 	path = I-CubeLRWAN/STM32CubeExpansion_LRWAN_V1.3.1
 	url = https://github.com/MahendraSondagar/STM32CubeExpansion_LRWAN_V1.3.1
+[submodule "I-CubeLRWAN/en.x-cube-sfox"]
+	path = I-CubeLRWAN/en.x-cube-sfox
+	url = https://github.com/MahendraSondagar/en.x-cube-sfox
