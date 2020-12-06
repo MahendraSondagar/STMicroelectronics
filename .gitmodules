@@ -1,0 +1,3 @@
+[submodule "SensorTile"]
+	path = SensorTile
+	url = https://github.com/MahendraSondagar/SensorTile

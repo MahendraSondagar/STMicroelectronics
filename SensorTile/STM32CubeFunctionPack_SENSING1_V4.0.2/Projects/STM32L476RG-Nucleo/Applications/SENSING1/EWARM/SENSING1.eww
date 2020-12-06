@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Project.ewp</path>
+    </project>
+    <batchBuild>
+        <batchDefinition>
+            <name>ALL</name>
+            <member>
+                <project>Project</project>
+                <configuration>STM32L476RG-Nucleo ASC</configuration>
+            </member>
+            <member>
+                <project>Project</project>
+                <configuration>STM32L476RG-Nucleo HAR_GMP</configuration>
+            </member>
+            <member>
+                <project>Project</project>
+                <configuration>STM32L476RG-Nucleo HAR_IGN</configuration>
+            </member>
+            <member>
+                <project>Project</project>
+                <configuration>STM32L476RG-Nucleo HAR_IGN_WSDM</configuration>
+            </member>
+        </batchDefinition>
+    </batchBuild>
+</workspace>

@@ -1,0 +1,128 @@
+{
+    "Input": {
+        "format": [
+            1,
+            4,
+            3
+        ]
+    },
+    "Conv2D_1_weights": {
+        "format": [
+            1,
+            0,
+            7
+        ]
+    },
+    "Conv2D_1_bias": {
+        "format": [
+            1,
+            1,
+            6
+        ]
+    },
+    "Conv2D_1_out": {
+        "format": [
+            1,
+            1,
+            6
+        ]
+    },
+    "Activation_2_out": {
+        "format": [
+            1,
+            2,
+            5
+        ]
+    },
+    "MaxPooling2D_3_out": {
+        "format": [
+            1,
+            1,
+            6
+        ]
+    },
+    "Conv2D_5_weights": {
+        "format": [
+            1,
+            -1,
+            8
+        ]
+    },
+    "Conv2D_5_bias": {
+        "format": [
+            1,
+            -1,
+            8
+        ]
+    },
+    "Conv2D_5_out": {
+        "format": [
+            1,
+            4,
+            3
+        ]
+    },
+    "Activation_6_out": {
+        "format": [
+            1,
+            1,
+            6
+        ]
+    },
+    "MaxPooling2D_7_out": {
+        "format": [
+            1,
+            1,
+            6
+        ]
+    },
+    "Dense_10_weights": {
+        "format": [
+            1,
+            -1,
+            8
+        ]
+    },
+    "Dense_10_bias": {
+        "format": [
+            1,
+            -1,
+            8
+        ]
+    },
+    "Dense_10_out": {
+        "format": [
+            1,
+            0,
+            7
+        ]
+    },
+    "Activation_11_out": {
+        "format": [
+            1,
+            0,
+            7
+        ]
+    },
+    "Dense_13_weights": {
+        "format": [
+            1,
+            1,
+            6
+        ]
+    },
+    "Dense_13_bias": {
+        "format": [
+            1,
+            0,
+            7
+        ]
+    },
+    "Dense_13_out": {
+        "format": [
+            1,
+            1,
+            6
+        ]
+    }
+}
